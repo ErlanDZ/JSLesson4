@@ -1,0 +1,28 @@
+.wrapper {
+   height: 300px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+ .btn_plus{
+   width: 80px;
+   height: 40px;
+   font-size: 35px;
+   color: red;
+ }
+
+ .counter{
+   width: 80px;
+   height: 40px;
+   font-size: 35px;
+   display: flex;
+   justify-content: center;
+ }
+
+ .btn_minus{
+   width: 80px;
+   height: 40px;
+   font-size: 35px;
+   color: blue;
+ }
